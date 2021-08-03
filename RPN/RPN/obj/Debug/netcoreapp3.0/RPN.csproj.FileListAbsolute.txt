@@ -1,0 +1,12 @@
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.exe
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.deps.json
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.runtimeconfig.json
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.dll
+C:\Users\kolev\source\repos\RPN\RPN\bin\Debug\netcoreapp3.0\RPN.pdb
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.AssemblyInfo.cs
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.dll
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.pdb
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.csproj.CoreCompileInputs.cache
+C:\Users\kolev\source\repos\RPN\RPN\obj\Debug\netcoreapp3.0\RPN.genruntimeconfig.cache
